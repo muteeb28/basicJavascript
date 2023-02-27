@@ -1,3 +1,2 @@
 # basicJavascript
-Practice questions from my blog
-[Blog](https://muteeb.hashnode.dev/master-basic-javascript)
+Practice questions from my [Blog](https://muteeb.hashnode.dev/master-basic-javascript)
